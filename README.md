@@ -5,11 +5,11 @@
 ---
 
 ## 📌 Project Overview
-Drively is a mobile application developed using React Native on Expo Snack. This application is designed to help users improve their driving habits, enhance road safety awareness, and access useful tools related to driving.
+Drively is a cross-platform mobile application developed using React Native and Expo to help users improve their driving knowledge and manage essential vehicle information in one place.
 
-The application was developed and improved by **Dinh Huy Nguyen** and **Jash Unalkat** as part of the final project for the INFO-5139 course.
+The application provides features such as user authentication, vehicle maintenance tracking, insurance information, driving scenarios, educational videos, and practice quizzes to promote safe driving habits and enhance the overall learning experience.
 
-The main focus of this project is on user interface design, smooth navigation, and providing a complete user experience through multiple integrated features.
+Designed with a responsive and user-friendly interface, the application focuses on delivering smooth navigation, intuitive functionality, and an engaging mobile experience.
 
 ---
 
