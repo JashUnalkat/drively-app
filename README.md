@@ -1,8 +1,6 @@
-# Drively application - INFO 5139 - Group 12 
 
-This is the Drively application which developed and improved by Dinh Huy Nguyen and Jash Unalkat for Final Project course (INFO-5139)
 # Drively Mobile Application 🚗  
-### INFO 5139 – Final Project (Group 12)
+
 
 ---
 
