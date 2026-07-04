@@ -223,8 +223,4 @@ npx expo start
 - **Jash Rakeshkumar Unalkat**
 - **Dinh Huy Nguyen**
 
----
 
-## 📄 License
-
-This project is intended for educational and portfolio purposes.
